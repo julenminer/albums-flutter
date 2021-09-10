@@ -1,0 +1,485 @@
+[
+  {
+    "artist": "Taylor Swift",
+    "title": "Folklore",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
+    "releaseYear": "2020",
+    "genre": "Alternative",
+    "songs": [
+      {
+        "number": 1,
+        "title": "The 1",
+        "length": "3:30"
+      },
+      {
+        "number": 2,
+        "title": "Cardigan",
+        "length": "3:59"
+      },
+      {
+        "number": 3,
+        "title": "The Last Great American Dynasty",
+        "length": "3:51"
+      },
+      {
+        "number": 4,
+        "title": "Exile (ft. Bon Iver)",
+        "length": "4:45"
+      },
+      {
+        "number": 5,
+        "title": "My Tears Ricochet",
+        "length": "4:15"
+      },
+      {
+        "number": 6,
+        "title": "Mirrorball",
+        "length": "3:29"
+      },
+      {
+        "number": 7,
+        "title": "Seven",
+        "length": "3:28"
+      },
+      {
+        "number": 8,
+        "title": "August",
+        "length": "4:21"
+      },
+      {
+        "number": 9,
+        "title": "This Is Me Trying",
+        "length": "3:15"
+      },
+      {
+        "number": 10,
+        "title": "Illicit Affairs",
+        "length": "3:10"
+      },
+      {
+        "number": 11,
+        "title": "Invisible String",
+        "length": "4:12"
+      },
+      {
+        "number": 12,
+        "title": "Mad Woman",
+        "length": "3:57"
+      },
+      {
+        "number": 13,
+        "title": "Epiphany",
+        "length": "4:49"
+      },
+      {
+        "number": 14,
+        "title": "Betty",
+        "length": "4:54"
+      },
+      {
+        "number": 15,
+        "title": "Peace",
+        "length": "3:40"
+      },
+      {
+        "number": 16,
+        "title": "Hoax",
+        "length": "3:40"
+      },
+      {
+        "number": 17,
+        "title": "the Lakes",
+        "length": "3:31"
+      }
+    ]
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "releaseYear": "1991",
+    "genre": "Rock",
+    "songs": [
+      {
+        "number": 1,
+        "title": "Smells Like Teen Spirit",
+        "length": "5:01"
+      },
+      {
+        "number": 2,
+        "title": "In Bloom",
+        "length": "4:14"
+      },
+      {
+        "number": 3,
+        "title": "Come as You Are",
+        "length": "3:39"
+      },
+      {
+        "number": 4,
+        "title": "Breed",
+        "length": "3:03"
+      },
+      {
+        "number": 5,
+        "title": "Lithium",
+        "length": "4:17"
+      },
+      {
+        "number": 6,
+        "title": "Polly",
+        "length": "2:57"
+      },
+      {
+        "number": 7,
+        "title": "Territorial Pissing",
+        "length": "2:22"
+      },
+      {
+        "number": 8,
+        "title": "Drain You",
+        "length": "3:43"
+      },
+      {
+        "number": 9,
+        "title": "Lounge Act",
+        "length": "2:36"
+      },
+      {
+        "number": 10,
+        "title": "Stay Away",
+        "length": "3:32"
+      },
+      {
+        "number": 11,
+        "title": "On a Plain",
+        "length": "3:16"
+      },
+      {
+        "number": 12,
+        "title": "Something in the Way",
+        "length": "3:52"
+      },
+      {
+        "number": 13,
+        "title": "Endless, Nameless",
+        "length": "6:44"
+      }
+    ]
+  },
+  {
+    "artist": "Rosalía",
+    "title": "El Mal Querer",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rosal%C3%ADa_El_mal_querer.png",
+    "releaseYear": "2018",
+    "genre": "Pop",
+    "songs": [
+      {
+        "number": 1,
+        "title": "Malamente (Cap.I: Augurio)",
+        "length": "2:29"
+      },
+      {
+        "number": 2,
+        "title": "Que no salga la luna (Cap.II: Boda)",
+        "length": "4:29"
+      },
+      {
+        "number": 3,
+        "title": "Pienso en tu mirá (Cap.III: Celos)",
+        "length": "3:13"
+      },
+      {
+        "number": 4,
+        "title": "De aquí no sales (Cap.IV: Disputa)",
+        "length": "2:24"
+      },
+      {
+        "number": 5,
+        "title": "Reniego (Cap.V: Lamento)",
+        "length": "3:28"
+      },
+      {
+        "number": 6,
+        "title": "Preso (Cap.VI: Clausura)",
+        "length": "0:40"
+      },
+      {
+        "number": 7,
+        "title": "Bagdad (Cap.VII: Liturgia)",
+        "length": "3:02"
+      },
+      {
+        "number": 8,
+        "title": "Di mi nombre (Cap.VIII: Éxtasis)",
+        "length": "2:42"
+      },
+      {
+        "number": 9,
+        "title": "Nana (Cap.IX: Concepción)",
+        "length": "3:17"
+      },
+      {
+        "number": 10,
+        "title": "Maldición (Cap.X: Cordura)",
+        "length": "2:55"
+      },
+      {
+        "number": 11,
+        "title": "A ningún hombre (Cap.XI: Poder)",
+        "length": "1:34"
+      }
+    ]
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Pet Sounds",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/b/bb/PetSoundsCover.jpg",
+    "releaseYear": "1966",
+    "genre": "Rock",
+    "songs": [
+      {
+        "number": 1,
+        "title": "Wouldn't It Be Nice",
+        "length": "2:25"
+      },
+      {
+        "number": 2,
+        "title": "You Still Believe in Me",
+        "length": "2:31"
+      },
+      {
+        "number": 3,
+        "title": "That's Not Me",
+        "length": "2:28"
+      },
+      {
+        "number": 4,
+        "title": "Don't Talk (Put Your Head on My Shoulder)",
+        "length": "2:53"
+      },
+      {
+        "number": 5,
+        "title": "I'm Waiting for the Day",
+        "length": "3:05"
+      },
+      {
+        "number": 6,
+        "title": "Let's Go Away for Awhile",
+        "length": "2:18"
+      },
+      {
+        "number": 7,
+        "title": "Sloop John B",
+        "length": "2:58"
+      }
+    ]
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Abbey Road",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+    "releaseYear": "1969",
+    "genre": "Rock",
+    "songs": [
+      {
+        "number": 1,
+        "title": "Come Together",
+        "length": "4:19"
+      },
+      {
+        "number": 2,
+        "title": "Something",
+        "length": "3:02"
+      },
+      {
+        "number": 3,
+        "title": "Maxwell's Silve Hammer",
+        "length": "3:27"
+      },
+      {
+        "number": 4,
+        "title": "Oh! Darling",
+        "length": "3:27"
+      },
+      {
+        "number": 5,
+        "title": "Octopus's Garden",
+        "length": "2:51"
+      },
+      {
+        "number": 6,
+        "title": "I Want You (She's So Heavy)",
+        "length": "2:18"
+      }
+    ]
+  },
+  {
+    "artist": "Jimi Hendrix Experience",
+    "title": "Are You Experienced?",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Are_You_Experienced_-_US_cover-edit.jpg/480px-Are_You_Experienced_-_US_cover-edit.jpg",
+    "releaseYear": "1967",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Rumours",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+    "releaseYear": "1977",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Sun Sessions",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Elvis_Presley_The_Sun_Sessions_LP_Cover.jpg",
+    "releaseYear": "1976",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Thriller",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "releaseYear": "1982",
+    "genre": "Pop",
+    "songs": []
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Exile on Main Street",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/ExileMainSt.jpg",
+    "releaseYear": "1972",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Born to Run",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Born_to_Run_%28Front_Cover%29.jpg",
+    "releaseYear": "1975",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "The Clash",
+    "title": "London Calling",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg",
+    "releaseYear": "1980",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "The Eagles",
+    "title": "Hotel California",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+    "releaseYear": "1976",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png",
+    "releaseYear": "1969",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "IV",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+    "releaseYear": "1971",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Police",
+    "title": "Synchronicity",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Police-album-synchronicity.jpg",
+    "releaseYear": "1983",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "U2",
+    "title": "Achtung Baby",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Achtung_Baby.png",
+    "releaseYear": "1991",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Let it Bleed",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/LetitbleedRS.jpg",
+    "releaseYear": "1969",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Rubber Soul",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg",
+    "releaseYear": "1965",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Queen",
+    "title": "A Night At The Opera",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Queen_A_Night_At_The_Opera.png/220px-Queen_A_Night_At_The_Opera.png",
+    "releaseYear": "1975",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "Boston",
+    "title": "Don't Look Back",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Boston_-_Don%27t_Look_Back.jpg",
+    "releaseYear": "1978",
+    "genre": "Rock",
+    "songs": []
+  },
+  {
+    "artist": "BB King",
+    "title": "Singin' The Blues",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Singin%27_the_blues_small.jpg",
+    "releaseYear": "1956",
+    "genre": "Blues",
+    "songs": []
+  },
+  {
+    "artist": "Albert King",
+    "title": "Born Under A Bad Sign",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/BornUnderABadSign.jpg",
+    "releaseYear": "1967",
+    "genre": "Blues",
+    "songs": []
+  },
+  {
+    "artist": "Muddy Waters",
+    "title": "Folk Singer",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Muddywatersfolksinger.jpg",
+    "releaseYear": "1964",
+    "genre": "Blues",
+    "songs": []
+  },
+  {
+    "artist": "Robert Johnson",
+    "title": "King of the Delta Blues",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/KotDBS1.jpg",
+    "releaseYear": "1961",
+    "genre": "Blues",
+    "songs": []
+  },
+  {
+    "artist": "Stevie Ray Vaughan",
+    "title": "Texas Flood",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/StevieRayVaughanTexasFlood.jpg",
+    "releaseYear": "1983",
+    "genre": "Blues",
+    "songs": []
+  }
+]
